@@ -1,4 +1,4 @@
-#md5_rsrc
+# md5_rsrc
 ## Compute the MD5 hash of the resource fork of a file
 
 On a Mac (particularly on the HFS, HFS+, and APFS file systems), every file has two forks: a data fork, and a resource fork. The resource fork isn't used for much anymore, but on the Classic Mac OS, many applications and the operating system kept essential resources there.
